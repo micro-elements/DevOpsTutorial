@@ -14,3 +14,5 @@ DevOps tutorial
   * feeds
   * upstream sources
 * Autopublish packages to MyGet and NuGet
+* StyleCop
+* EditorConfig
