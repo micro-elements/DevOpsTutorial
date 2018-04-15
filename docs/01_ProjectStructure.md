@@ -15,7 +15,7 @@
 
 After you press "Create repository" github creates new repository with "Initial commit"
 
-Result:
+### Result
 ![new](../img/initialCommit.png)
 
 ## 2. Clone repository
@@ -54,7 +54,11 @@ MicroElements.DevOps.SampleComponent
 - push to github
 
 ## Pictures
-![new](../img/clone.png)
-![new](../img/newSolution.png)
-![new](../img/addProject.png)
-![new](../img/addTestProject.png)
+### Clone
+![](../img/clone.png)
+### Create solution
+![](../img/newSolution.png)
+### Add project
+![](../img/addProject.png)
+### Add test project
+![](../img/addTestProject.png)
