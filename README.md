@@ -6,9 +6,9 @@ Many peoples want to do something cool for community but thay does not know how.
 ## Steps
 * [01. Creating project structure](docs/01_project_structure.md)
 * [02. Adding cake build](docs/02_cake_build.md)
-* setup travis ci
+* [03. Adding SourceLink](docs/03_source_link.md)
 * adding common project
-* adding sourcelink
+* setup travis ci
 * gitflow
 * GitVersion
 * GitReleaseNotes
