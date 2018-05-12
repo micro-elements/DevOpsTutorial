@@ -9,4 +9,6 @@ https://github.com/ctaggart/SourceLink/blob/master/README.md
 
 
 ## Steps
+TODO
 
+<DebugType>embedded</DebugType>

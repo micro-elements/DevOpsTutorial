@@ -2,8 +2,8 @@
 
 Read this in other languages: [English](README.md), [Русский](README.ru.md)
 
-## Intro
-Many peoples want to do something cool for community but thay does not know how. In this tutorial I will show how to create your first community package from the scratch. 
+## Введение
+Многие люди хотят сделать что-то полезно для сообщества, но они не знают как. В этом цикле статей я покажу как можно создать свой первый общедоступный пакет. Будут рассмотрены общие практики.
 
 ## Steps
 * [01. Creating project structure](docs/01_project_structure.md)
